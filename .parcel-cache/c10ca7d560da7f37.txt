@@ -1,0 +1,13 @@
+12
+45F:\fontend-jrg\js\move-code\src\.parcel-cache133094487362778722 1
+31F:\fontend-jrg\js\move-code\src133094487382246233 1
+39F:\fontend-jrg\js\move-code\src\main.js133094973875209572 0
+36F:\fontend-jrg\js\move-code\src\dist133094493060851323 1
+42F:\fontend-jrg\js\move-code\src\index.html133094491093802714 0
+47F:\fontend-jrg\js\move-code\src\dist\index.html133094492103943773 0
+58F:\fontend-jrg\js\move-code\src\dist\index.c4775257.js.map133094493060851323 0
+54F:\fontend-jrg\js\move-code\src\dist\index.c4775257.js133094493060821693 0
+58F:\fontend-jrg\js\move-code\src\dist\move-code.3464ddca.js133094488215183661 0
+62F:\fontend-jrg\js\move-code\src\dist\move-code.3464ddca.js.map133094488215253475 0
+54F:\fontend-jrg\js\move-code\src\.parcel-cache\data.mdb133094493110127780 0
+54F:\fontend-jrg\js\move-code\src\.parcel-cache\lock.mdb133094487362778722 0
